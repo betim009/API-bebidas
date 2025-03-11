@@ -1,0 +1,41 @@
+.card-1{
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+
+.img-1 {
+
+    height: 600px;
+
+}
+
+.texto-1 {
+
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nome-1 {
+    font-size: 60px;
+}
+
+.descricao-1{
+    font-size: 15px;
+}
+
+.preco-1{
+    font-size: 40px;
+}
+
+.botao-1{
+    width: 400px;
+    height: 60px;
+    border-radius: 8px;
+    border: 9px #ced4da;
+    cursor: pointer; 
+}
